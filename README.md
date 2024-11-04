@@ -6,7 +6,9 @@
 
 After leaving my job in Oil and Gas to transition fully into tech, I committed to a year of saving to fund this new chapter in my life. Part of this budget was dedicated to creating an optimized office space and upgrading my PC setup. I knew if I was going to spend long hours building a career in tech, I’d need a workspace that was both functional and comfortable. My previous setup was in the “second bedroom” of my condo—a cramped room with a Murphy bed and a pull-down desk. The space was cluttered, small, and anything but inspiring.
 
-![How It Started](https://imgur.com/a/9oYwAHZ)
+  
+![How It Started](https://i.imgur.com/AmRWEwZ.jpeg)
+
 
 ---
 
@@ -16,6 +18,7 @@ The first step was to remove the Murphy bed, which was taking up over 20 square 
 
 Within hours, I found a buyer whose husband was a contractor and felt confident he could handle the job. After six hours of hard work, the bed was finally out. It was a relief to reclaim the space, but this was only the beginning of the challenges.
 
+![Removing the Murphy Bed](https://i.imgur.com/yONzXXZ.jpeg)
 ---
 
 ## Problem #1: Flooring Gap
@@ -24,11 +27,14 @@ With the Murphy bed gone, I discovered that the flooring beneath it hadn’t bee
 
 I then contacted the flooring manufacturer, only to find that the product was from a German company and was no longer stocked locally. After a week of searching for a similar match, I got lucky—a box of the exact flooring was found in the building manager’s storage. Problem solved!
 
+![Flooring Issues](https://i.imgur.com/H9J2iuY.jpeg)
 ---
 
 ## Flooring and Baseboards
 
 Armed with some YouTube tutorials and DIY guidance, I was able to patch the concrete floor left in my office and install the missing flooring and baseboards, successfully transforming the space.
+
+![Finishing the floor](https://i.imgur.com/oCb1w8w.jpeg)
 
 ---
 
@@ -38,13 +44,18 @@ To add some contrast to the all-white room, I wanted a dark oak slat wall behind
 
 Using wooden braces, I installed the slats with enough space to wrap LED lights behind them. My dad's advice—"measure twice, cut once"—echoed in my mind throughout the three-day project. The accent wall came together beautifully, and the lighting effect was perfect.
 
+![Building the accent wall](https://i.imgur.com/EPlA4E7.jpeg)
+![Building the accent wall](https://i.imgur.com/OD5DaTu.jpeg)
+![Building the accent wall](https://i.imgur.com/VJnecUK.jpeg)
+![Building the accent wall](https://i.imgur.com/9t4jxCj.jpeg)
+
 ---
 
 ## Mounting Monitors and Cable Management
 
 I wanted a minimalist setup, with as few visible cables as possible. Fortunately, the wooden braces I’d used for the accent wall created just enough space (about 3/4 inch) to route cables neatly behind the wall, achieving a “cordless” look.
 
-For monitors, I chose the MSI 34" 1000R curved display as my primary screen. I’ve been a fan of ultrawides since my first 34" LG, but I wanted something with a refresh rate above 60Hz this time. The MSI’s slight curve helps reduce eye strain, especially during long sessions.
+For monitors, I chose the MSI 34" 1000R curved display as my primary screen. I’ve been a fan of ultra wides since my first 34" LG, but I wanted something with a refresh rate above 60Hz this time. The MSI’s slight curve helps reduce eye strain, especially during long sessions.
 
 For a secondary display, I opted for the LG DualUp, which is essentially two stacked screens in one. This setup allows me to use the DualUp with my main PC and my MacBook Pro simultaneously, thanks to its dual-input capability. With Synergy software, I can use a single keyboard and mouse to control both systems seamlessly.
 
@@ -52,6 +63,8 @@ For a secondary display, I opted for the LG DualUp, which is essentially two sta
 
 - **Primary Monitor:** MSI 34" Ultrawide 1000R Curved 165Hz (3440 x 1440)
 - **Secondary Monitor:** LG DualUp 28MQ750 Monitor 27.6" 16:18 (2560x2880)
+
+![Finishing the wall and mounting monitors](https://i.imgur.com/3ONEuNq.jpeg)
 
 ---
 
@@ -70,11 +83,15 @@ Selecting the PC components was a long but enjoyable process. I researched exten
 - **Cooling System:** NZXT 360mm AIO CPU Liquid Cooler (Black)
 - **Case:** Fractal North ATX - Charcoal Black with Walnut Front + Dark Tinted Glass
 
+![Computer Build](https://i.imgur.com/F8TS41h.jpeg)
+
 ---
 
 ## Building the Computer
 
 Building the PC was relatively smooth, thanks to step-by-step guides and support from friends. The only minor issue occurred during the initial boot. Nothing appeared on the screen, and I quickly realized I needed to update my motherboard’s UEFI boot version. After loading the correct version onto a USB stick, the system booted perfectly.
+
+![Building the computer[]()](https://i.imgur.com/qhQa4ip.gif)
 
 ---
 
@@ -82,6 +99,7 @@ Building the PC was relatively smooth, thanks to step-by-step guides and support
 
 The transformation from a cluttered, cramped room into a personalized, functional tech workspace has been well worth the time and effort. Not only is it a testament to the journey I’m on in the tech industry, but it also serves as a dedicated space for productivity and creativity as I work toward my goals.
 
+![Results](https://i.imgur.com/3z3byL7.jpeg)
 --- 
 
 
