@@ -6,7 +6,7 @@
 
 After leaving my job in Oil and Gas to transition fully into tech, I committed to a year of saving to fund this new chapter in my life. Part of this budget was dedicated to creating an optimized office space and upgrading my PC setup. I knew if I was going to spend long hours building a career in tech, I’d need a workspace that was both functional and comfortable. My previous setup was in the “second bedroom” of my condo—a cramped room with a Murphy bed and a pull-down desk. The space was cluttered, small, and anything but inspiring.
 
-![How It Started](https://imgur.com/5g0qOE0)
+![How It Started](https://imgur.com/a/9oYwAHZ)
 
 ---
 
